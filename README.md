@@ -5,8 +5,11 @@ Just a simple snake game in python language.
 # guideline
 
 use `w` to go up
+
 use `s` to go down
+
 use `a` to go left
+
 use `d` to go right
 
 # Rules
